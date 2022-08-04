@@ -1,0 +1,8 @@
+1.adding filter option to entire dataset
+2.remove duplicate (option in data head)
+3.replace m,f as married,single in column and single(ctrl+f)
+4.creating new column of age bins with if condition (brackets / buckets )
+5.pivot table along with charts
+6.change background for dashboard (view option ->remove gridlines)
+7.slicer (select chart -> insert slicer in top)
+  a.Report connections for all charts
